@@ -53,7 +53,8 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.css"
+              "./node_modules/@angular/material/prebuilt-themes/indigo-pink.css",
+              "src/app/viu/styles.css"
             ],
             "scripts": []
           },
